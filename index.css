@@ -1,0 +1,47 @@
+* {
+    font-family:monospace;
+    background-color:blanchedalmond;
+}
+h1 {
+    text-align: center;
+    color:darkslategrey;
+    font-size: 50px;
+}
+h2 {
+    color:cornflowerblue;
+    background-color:black;
+    text-align: center;
+}
+th {
+    text-align: left;
+
+}
+
+table, th, td {
+    border: 1px black solid;
+}
+tfoot {
+    text-align: center;
+    color:brown;
+    
+
+}
+.sizebig 
+{font-size: 40px;}
+
+.sizesmall {
+font-size: 20px;
+}
+.bkd {
+    background-color: yellow;
+}
+.blue {
+    color:blue
+}
+.bold {
+    font-weight: bold;
+}
+thead th {
+    background-color: sandybrown;
+
+}
